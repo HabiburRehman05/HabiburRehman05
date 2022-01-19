@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HabiburRehman05
 - 👀 I’m interested in BackEnd Development
-- 🌱 I’m eager to learn that can enhance my knowledge
+- 🌱 I’m eager to learn Languages like Java,JS..
 - 📫 How to reach me @hhabibman534@gmail.com
 
 <!---
